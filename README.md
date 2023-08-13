@@ -1,2 +1,2 @@
 # hello-world
-This is for assignment 3
+I am Andy and I am trying to improve my grade.
